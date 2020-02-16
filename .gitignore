@@ -1,4 +1,5 @@
 __pycache__/
+pages/__pycache__/
 *.py[cod]
-*$py.class
+cmd.exe*
 
